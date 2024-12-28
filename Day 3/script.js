@@ -181,7 +181,7 @@ const evenRollNumberStudents = deogiriStudents.filter((curElem) => curElem.rollN
 // const evenRollNumberStudents = deogiriStudents.filter((curElem) => {
 //     if(curElem.rollNumber%2===0) {
 //         return curElem;
-//     }
+//     }`
 // });
 
 
